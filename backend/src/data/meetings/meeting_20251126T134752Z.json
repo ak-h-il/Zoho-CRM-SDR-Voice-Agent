@@ -1,0 +1,16 @@
+{
+  "slot": "slot-2",
+  "start": "2025-11-27T15:00:00Z",
+  "duration_minutes": 30,
+  "lead": {
+    "name": "Akil Gupta",
+    "company": "Technolabs",
+    "email": "akhil18abc@gmail.com",
+    "role": "Founder",
+    "use_case": "Track leads and automate follow-ups",
+    "team_size": null,
+    "timeline": null,
+    "notes": null
+  },
+  "booked_at": "2025-11-26T13:47:52.666500Z"
+}

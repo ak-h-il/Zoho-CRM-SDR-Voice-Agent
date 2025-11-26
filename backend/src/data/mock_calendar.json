@@ -1,0 +1,32 @@
+[
+  {
+    "id": "slot-1",
+    "start": "2025-11-27T14:00:00Z",
+    "duration_minutes": 30,
+    "booked": false
+  },
+  {
+    "id": "slot-2",
+    "start": "2025-11-27T15:00:00Z",
+    "duration_minutes": 30,
+    "booked": true
+  },
+  {
+    "id": "slot-3",
+    "start": "2025-11-27T16:00:00Z",
+    "duration_minutes": 30,
+    "booked": false
+  },
+  {
+    "id": "slot-4",
+    "start": "2025-11-27T17:00:00Z",
+    "duration_minutes": 30,
+    "booked": false
+  },
+  {
+    "id": "slot-5",
+    "start": "2025-11-27T18:00:00Z",
+    "duration_minutes": 30,
+    "booked": false
+  }
+]

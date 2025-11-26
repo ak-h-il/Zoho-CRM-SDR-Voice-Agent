@@ -1,0 +1,79 @@
+{
+  "company": {
+    "name": "Zoho CRM",
+    "one_liner": "Zoho CRM is a cloud-based customer relationship management system that helps businesses manage leads, deals, automation, and customer interactions.",
+    "headquarters": "Chennai, India"
+  },
+
+  "pricing_summary": {
+    "overview": "Zoho CRM offers a Free Edition and multiple paid tiers including Standard, Professional, Enterprise, and Ultimate.",
+    "note": "Pricing varies by region. Paid plans add more automation, analytics, customization, and platform capabilities."
+  },
+
+  "faqs": [
+    {
+      "q": "What does Zoho CRM do?",
+      "a": "Zoho CRM helps businesses manage leads, contacts, deals, emails, tasks, automation, workflows, and sales reporting from one place."
+    },
+    {
+      "q": "Who is Zoho CRM for?",
+      "a": "Zoho CRM is suitable for small businesses, mid-sized companies, and enterprise sales teams who want better pipeline visibility and customer engagement."
+    },
+    {
+      "q": "Do you have a free plan?",
+      "a": "Yes. Zoho CRM offers a Free Edition for up to three users with basic lead, contact, and deal management."
+    },
+    {
+      "q": "How is pricing structured?",
+      "a": "Zoho CRM has tiered pricing: Free, Standard, Professional, Enterprise, and Ultimate. Each tier adds more automation, analytics, customization, and omnichannel features."
+    },
+    {
+      "q": "Tell me about the Standard plan.",
+      "a": "The Standard plan adds scoring rules, email insights, workflows, custom fields, and dashboards compared to the Free Edition."
+    },
+    {
+      "q": "Tell me about the Professional plan.",
+      "a": "The Professional plan includes full inventory management, advanced automation, macros, and validation rules."
+    },
+    {
+      "q": "Tell me about the Enterprise plan.",
+      "a": "The Enterprise plan includes multi-user portals, advanced customization, canvas design, predictive analytics, and Zia AI features."
+    },
+    {
+      "q": "Tell me about the Ultimate plan.",
+      "a": "The Ultimate plan includes advanced analytics, higher data limits, premium support, and additional business intelligence features."
+    },
+    {
+      "q": "Does Zoho CRM support automation?",
+      "a": "Yes. Zoho CRM includes workflows, assignment rules, automation triggers, blueprints, and process management tools."
+    },
+    {
+      "q": "Does Zoho CRM support integrations?",
+      "a": "Yes. Zoho CRM integrates with email, telephony, marketing tools, analytics, Zoho apps, and many third-party services."
+    },
+    {
+      "q": "Is Zoho CRM good for small teams?",
+      "a": "Yes. The Free and Standard plans work well for small teams starting with CRM and scaling their sales process."
+    },
+    {
+      "q": "What is Zia AI?",
+      "a": "Zia is Zoho’s AI assistant that provides predictions, lead scoring, email sentiment analysis, and workflow suggestions."
+    },
+    {
+      "q": "Does Zoho CRM support mobile apps?",
+      "a": "Yes. Zoho CRM has mobile apps for Android and iOS for managing leads, calls, and tasks on the go."
+    },
+    {
+      "q": "Can Zoho CRM help with email?",
+      "a": "Yes. Zoho CRM supports email integration, templates, email insights, open-rate tracking, and bulk email features in higher plans."
+    },
+    {
+      "q": "Does Zoho CRM support omnichannel communication?",
+      "a": "Yes. Zoho CRM supports email, phone, live chat, social media, and web forms in selected plans."
+    },
+    {
+      "q": "Does Zoho CRM support customization?",
+      "a": "Yes. Zoho CRM supports custom fields, page layouts, workflows, validation rules, and canvas design for UI customization."
+    }
+  ]
+}
